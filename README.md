@@ -1,1 +1,2 @@
-# videoGameFinal
+# Fish Run - Joe Condie
+To start game, go to main.py and hit run. You will be taken to the main menu where you press space to start the game. From there, you use the up arrow to control your character to move them up. Gravity will move them back down. If you want to pause the game, hit "p" and the game will stop. Hit "p" again to continue. To exit the game, hit escape or exit out. To close the game, you have to exit out (can't just hit escape).
